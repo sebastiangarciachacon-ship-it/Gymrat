@@ -1,0 +1,17 @@
+{
+  "name": "GymRat",
+  "short_name": "GymRat",
+  "description": "Tu agenda de entrenos inteligente",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F8F6",
+  "theme_color": "#1D9E75",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
